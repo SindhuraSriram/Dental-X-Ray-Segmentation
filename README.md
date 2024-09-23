@@ -1,0 +1,1 @@
+This code implements a deep learning solution for dental X-ray segmentation using the U-Net architecture with VGG16 as the backbone. It loads image and mask data from annotations, processes them, and trains a segmentation model. The model is designed to identify various dental conditions such as cavities, crowns, and implants from X-ray images. 
